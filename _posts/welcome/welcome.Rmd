@@ -5,7 +5,7 @@ description: |
   reading it!
 author:
   - name: Patrick Kanda 
-    url: https://example.com/norajones
+    url: 
     affiliation: 
     affiliation_url: 
 date: 03-08-2022
